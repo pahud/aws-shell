@@ -1,3 +1,7 @@
+![docker image size](https://shields.beevelop.com/docker/image/image-size/pahud/aws-shell/latest.svg?style=plastic)
+![image layers](https://shields.beevelop.com/docker/image/layers/pahud/aws-shell/latest.svg?style=plastic)
+![image pulls](https://shields.beevelop.com/docker/pulls/pahud/aws-shell.svg?style=plastic)
+
 # aws-shell with Docker
 
 This is the Docker version of [aws-shell](https://github.com/awslabs/aws-shell) by **awslabs**.
