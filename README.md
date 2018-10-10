@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/pahud/aws-shell.svg?branch=master)](https://travis-ci.org/pahud/aws-shell)
 ![docker image size](https://shields.beevelop.com/docker/image/image-size/pahud/aws-shell/latest.svg?style=plastic)
 ![image layers](https://shields.beevelop.com/docker/image/layers/pahud/aws-shell/latest.svg?style=plastic)
 ![image pulls](https://shields.beevelop.com/docker/pulls/pahud/aws-shell.svg?style=plastic)
